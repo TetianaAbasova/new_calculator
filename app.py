@@ -8,5 +8,7 @@ elif comand == "-":
     print(number_1 - number_2)
 elif comand == "*":
     print(number_1 * number_2)
+elif comand == "/":
+    print(number_1 / number_2)
 else:
     print("Invalid command")
